@@ -1,3 +1,5 @@
 #to print hello world
-a='hello world'
-print(a)
+# there are many ways to print hello world in python \
+print('hello world')
+print("hello world"|)
+print('''hello world''')
